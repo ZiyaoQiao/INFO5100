@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.db4o.ome_8.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/db4o-8.0/ome/ObjectManagerEnterprise-Java-8.0.0/plugins/com.db4o.ome_8.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

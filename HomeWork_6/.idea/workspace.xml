@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac0ea1d7-7322-481a-a5f0-81b4b8de859f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="OrderList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SupplierFrame/Supplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SupplierList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SupplierFrame/SupplierList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Business.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Business/Business.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5461">
+              <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Business/Admin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="23" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesPerson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrderFrame/SalesPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1032">
+              <caret line="26" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SupplierFrame/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2008">
+              <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductOffer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MarketFrame/ProductOffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SupplierFrame/ProductList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Use Case" />
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>profit</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Supplier/Product.java" />
+        <option value="$PROJECT_DIR$/src/Supplier/Supplier.java" />
+        <option value="$PROJECT_DIR$/src/Supplier/SupplierList.java" />
+        <option value="$PROJECT_DIR$/src/Supplier/ProductList.java" />
+        <option value="$PROJECT_DIR$/src/SupplierFrame/ProductList.java" />
+        <option value="$PROJECT_DIR$/src/SupplierFrame/SupplierList.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/MarketList.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/OfferList.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/MarketOffer.java" />
+        <option value="$PROJECT_DIR$/src/Business/SalesPerson.java" />
+        <option value="$PROJECT_DIR$/src/Business/SupplierList.java" />
+        <option value="$PROJECT_DIR$/src/OrderFrame/OrderList.java" />
+        <option value="$PROJECT_DIR$/src/OrderFrame/OrderItem.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/PriceRangeTuple.java" />
+        <option value="$PROJECT_DIR$/src/Business/ProductOffer.java" />
+        <option value="$PROJECT_DIR$/src/OrderFrame/Order.java" />
+        <option value="$PROJECT_DIR$/src/Business/Business.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/Market.java" />
+        <option value="$PROJECT_DIR$/src/OrderFrame/Customer.java" />
+        <option value="$PROJECT_DIR$/src/OrderFrame/SalesPerson.java" />
+        <option value="$PROJECT_DIR$/src/SupplierFrame/Supplier.java" />
+        <option value="$PROJECT_DIR$/src/Business/Admin.java" />
+        <option value="$PROJECT_DIR$/src/MarketFrame/ProductOffer.java" />
+        <option value="$PROJECT_DIR$/src/SupplierFrame/Product.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="2376" />
+    <option name="height" value="2082" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MarketFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OrderFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SupplierFrame" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac0ea1d7-7322-481a-a5f0-81b4b8de859f" name="Default" comment="" />
+      <created>1508463831255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508463831255</updated>
+      <workItem from="1508463835508" duration="3685000" />
+      <workItem from="1508518738179" duration="618000" />
+      <workItem from="1508522866310" duration="4901000" />
+      <workItem from="1508528029970" duration="700000" />
+      <workItem from="1508557175278" duration="555000" />
+      <workItem from="1508557763592" duration="506000" />
+      <workItem from="1508558287598" duration="181000" />
+      <workItem from="1508558489765" duration="3039000" />
+      <workItem from="1508608427243" duration="9403000" />
+      <workItem from="1508643732519" duration="3014000" />
+      <workItem from="1508701065238" duration="5373000" />
+      <workItem from="1508731801991" duration="614000" />
+      <workItem from="1508813031092" duration="2216000" />
+      <workItem from="1509126825342" duration="613000" />
+      <workItem from="1521850192500" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35421000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-14" y="-14" width="3868" height="2098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42122015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12593582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14429708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Business/Business.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2881">
+          <caret line="87" column="37" lean-forward="false" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1505">
+          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/MarketOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/SupplierList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/ProductOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/SalesPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Business.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/MarketList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/ProductOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/SupplierList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/SalesPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Business.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/OfferList.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_6.puml" />
+    <entry file="file://$PROJECT_DIR$/src/homework6.puml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml" />
+    <entry file="file://$PROJECT_DIR$/src/h.puml" />
+    <entry file="uml://MODULES/mdl-HomeWork_6">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-HomeWork_6</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-HomeWork_6</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="116.0" y="24.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Test dependencies</Category>
+            <Category>Libraries</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Business.Business">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Business.Business</OriginalElement>
+          <nodes>
+            <node x="" y="">Business.Business</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="24.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Flash/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Flash</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1690.0" y="904.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>PRIVATE</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">SupplierFrame</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">java</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">OrderFrame</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">MarketFrame</node>
+            <node x="" y="">Business</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="267.0" y="300.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Business">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Business</OriginalElement>
+          <nodes>
+            <node x="155.67528227785886" y="276.0">SupplierFrame.ProductList</node>
+            <node x="1274.0942562592047" y="295.0">MarketFrame.ProductOffer</node>
+            <node x="36.200000000000045" y="1242.5">SupplierFrame.SupplierList</node>
+            <node x="32.0" y="816.5">SupplierFrame.Supplier</node>
+            <node x="657.2692562592046" y="523.0">OrderFrame.OrderItem</node>
+            <node x="658.2692562592046" y="1602.0">OrderFrame.Order</node>
+            <node x="712.6197717231219" y="2244.0">Business.Business</node>
+            <node x="1083.9942562592046" y="779.0">MarketFrame.Market</node>
+            <node x="1429.0942562592045" y="1242.5">MarketFrame.MarketList</node>
+            <node x="848.6836156111923" y="1917.0">OrderFrame.OrderList</node>
+            <node x="1028.5942562592047" y="560.0">MarketFrame.MarketOffer</node>
+            <node x="1849.3348613156595" y="1955.0">Business.Admin</node>
+            <node x="635.7692562592047" y="37.5">SupplierFrame.Product</node>
+            <node x="387.65" y="780.0">OrderFrame.SalesPerson</node>
+            <node x="1398.7609229258715" y="0.0">MarketFrame.PriceRangeTuple</node>
+            <node x="821.0942562592046" y="1150.0">OrderFrame.Customer</node>
+            <node x="2093.3348613156595" y="0.0">Business.BusinessConfigure</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MarketFrame.Market" target="MarketFrame.MarketOffer">
+              <point x="0.0" y="-135.5" />
+              <point x="1276.9942562592046" y="739.0" />
+              <point x="1360.0942562592047" y="739.0" />
+              <point x="110.5" y="61.0" />
+            </edge>
+            <edge source="Business.Business" target="Business.Admin">
+              <point x="339.04761904761904" y="-450.5" />
+              <point x="1407.667390770741" y="2224.0" />
+              <point x="1948.8348613156595" y="2224.0" />
+              <point x="0.0" y="60.5" />
+            </edge>
+            <edge source="SupplierFrame.SupplierList" target="SupplierFrame.Supplier">
+              <point x="0.0" y="-98.5" />
+              <point x="217.70000000000005" y="1130.0" />
+              <point x="181.5" y="1130.0" />
+              <point x="0.0" y="98.0" />
+            </edge>
+            <edge source="Business.Business" target="OrderFrame.SalesPerson">
+              <point x="-169.52380952380963" y="-450.5" />
+              <point x="899.0959621993122" y="2174.0" />
+              <point x="441.80541237113414" y="2174.0" />
+              <point x="441.80541237113414" y="1130.0" />
+              <point x="409.25" y="1130.0" />
+              <point x="-86.39999999999998" y="134.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="OrderFrame.Order">
+              <point x="-147.0" y="191.0" />
+              <point x="968.0942562592046" y="1582.0" />
+              <point x="980.0192562592046" y="1582.0" />
+              <point x="123.75" y="-117.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="Business.Business">
+              <point x="205.7999999999997" y="191.0" />
+              <point x="1320.8942562592042" y="1582.0" />
+              <point x="1325.3447717231218" y="1582.0" />
+              <point x="1325.3447717231218" y="2144.0" />
+              <point x="1136.4292955326457" y="2144.0" />
+              <point x="67.8095238095238" y="-450.5" />
+            </edge>
+            <edge source="Business.Business" target="OrderFrame.Customer">
+              <point x="33.90476190476187" y="-450.5" />
+              <point x="1102.5245336278838" y="2134.0" />
+              <point x="1314.3447717231218" y="2134.0" />
+              <point x="1314.3447717231218" y="1552.0" />
+              <point x="1262.0942562592045" y="1552.0" />
+              <point x="146.99999999999997" y="191.0" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="OrderFrame.OrderList">
+              <point x="29.40000000000009" y="191.0" />
+              <point x="1144.4942562592048" y="1572.0" />
+              <point x="1198.3890279823263" y="1572.0" />
+              <point x="1198.3890279823263" y="1887.0" />
+              <point x="1111.9336156111924" y="1887.0" />
+              <point x="101.25" y="-98.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="OrderFrame.SalesPerson">
+              <point x="-205.79999999999984" y="-191.0" />
+              <point x="909.2942562592048" y="1110.0" />
+              <point x="582.05" y="1110.0" />
+              <point x="86.39999999999998" y="134.5" />
+            </edge>
+            <edge source="SupplierFrame.Supplier" target="SupplierFrame.Product">
+              <point x="-99.66666666666663" y="-98.0" />
+              <point x="81.83333333333337" y="759.0" />
+              <point x="83.69477172312179" y="759.0" />
+              <point x="83.69477172312179" y="226.0" />
+              <point x="664.7692562592047" y="226.0" />
+              <point x="-87.0" y="60.5" />
+            </edge>
+            <edge source="Business.Business" target="SupplierFrame.Supplier">
+              <point x="-305.14285714285734" y="-450.5" />
+              <point x="763.4769145802645" y="2214.0" />
+              <point x="25.700000000000045" y="2214.0" />
+              <point x="25.700000000000045" y="1130.0" />
+              <point x="61.89999999999998" y="1130.0" />
+              <point x="-119.60000000000002" y="98.0" />
+            </edge>
+            <edge source="Business.Business" target="OrderFrame.Order">
+              <point x="-67.80952380952391" y="-450.5" />
+              <point x="1000.810247913598" y="2144.0" />
+              <point x="820.0586156111923" y="2144.0" />
+              <point x="820.0586156111923" y="1897.0" />
+              <point x="707.7692562592046" y="1897.0" />
+              <point x="-148.5" y="117.5" />
+            </edge>
+            <edge source="MarketFrame.MarketOffer" target="MarketFrame.ProductOffer">
+              <point x="-110.5" y="-61.0" />
+              <point x="1139.0942562592047" y="503.0" />
+              <point x="1347.3442562592047" y="503.0" />
+              <point x="-73.25" y="79.5" />
+            </edge>
+            <edge source="MarketFrame.Market" target="OrderFrame.Customer">
+              <point x="19.300000000000182" y="135.5" />
+              <point x="1296.2942562592048" y="1110.0" />
+              <point x="1379.6942562592044" y="1110.0" />
+              <point x="264.5999999999999" y="-191.0" />
+            </edge>
+            <edge source="OrderFrame.Order" target="OrderFrame.Customer">
+              <point x="24.75" y="-117.5" />
+              <point x="881.0192562592046" y="1582.0" />
+              <point x="850.4942562592047" y="1582.0" />
+              <point x="-264.5999999999999" y="191.0" />
+            </edge>
+            <edge source="OrderFrame.SalesPerson" target="OrderFrame.OrderList">
+              <point x="43.19999999999999" y="134.5" />
+              <point x="538.8499999999999" y="1130.0" />
+              <point x="523.0554123711341" y="1130.0" />
+              <point x="523.0554123711341" y="1877.0" />
+              <point x="909.4336156111923" y="1877.0" />
+              <point x="-101.25" y="-98.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="OrderFrame.OrderItem">
+              <point x="-146.9999999999999" y="-191.0" />
+              <point x="968.0942562592047" y="1120.0" />
+              <point x="955.855412371134" y="1120.0" />
+              <point x="955.855412371134" y="759.0" />
+              <point x="807.2692562592046" y="759.0" />
+              <point x="50.0" y="98.0" />
+            </edge>
+            <edge source="MarketFrame.MarketList" target="MarketFrame.Market">
+              <point x="0.0" y="-98.5" />
+              <point x="1601.5942562592045" y="1090.0" />
+              <point x="1373.4942562592046" y="1090.0" />
+              <point x="96.5" y="135.5" />
+            </edge>
+            <edge source="Business.Business" target="OrderFrame.OrderList">
+              <point x="-33.90476190476198" y="-450.5" />
+              <point x="1034.71500981836" y="2134.0" />
+              <point x="929.6836156111923" y="2134.0" />
+              <point x="-81.0" y="98.5" />
+            </edge>
+            <edge source="OrderFrame.OrderItem" target="SupplierFrame.Product">
+              <point x="66.66666666666674" y="-98.0" />
+              <point x="823.9359229258713" y="503.0" />
+              <point x="772.6916666666667" y="503.0" />
+              <point x="772.6916666666667" y="256.0" />
+              <point x="780.7692562592047" y="256.0" />
+              <point x="29.0" y="60.5" />
+            </edge>
+            <edge source="MarketFrame.ProductOffer" target="SupplierFrame.Product">
+              <point x="-122.08333333333348" y="-79.5" />
+              <point x="1298.5109229258712" y="246.0" />
+              <point x="819.4359229258713" y="246.0" />
+              <point x="67.66666666666663" y="60.5" />
+            </edge>
+            <edge source="SupplierFrame.ProductList" target="SupplierFrame.Product">
+              <point x="0.0" y="-98.5" />
+              <point x="335.67528227785886" y="246.0" />
+              <point x="703.4359229258713" y="246.0" />
+              <point x="-48.33333333333337" y="60.5" />
+            </edge>
+            <edge source="Business.Business" target="OrderFrame.OrderItem">
+              <point x="-101.71428571428584" y="-450.5" />
+              <point x="966.9054860088361" y="2154.0" />
+              <point x="614.1500000000001" y="2154.0" />
+              <point x="614.1500000000001" y="759.0" />
+              <point x="673.9359229258712" y="759.0" />
+              <point x="-83.33333333333337" y="98.0" />
+            </edge>
+            <edge source="MarketFrame.Market" target="OrderFrame.Order">
+              <point x="-173.70000000000005" y="135.5" />
+              <point x="1103.2942562592045" y="1130.0" />
+              <point x="773.7692562592046" y="1130.0" />
+              <point x="773.7692562592046" y="1572.0" />
+              <point x="831.5192562592046" y="1572.0" />
+              <point x="-24.75" y="-117.5" />
+            </edge>
+            <edge source="MarketFrame.Market" target="OrderFrame.OrderItem">
+              <point x="-154.39999999999986" y="-135.5" />
+              <point x="1122.5942562592047" y="749.0" />
+              <point x="840.6025895925378" y="749.0" />
+              <point x="83.33333333333326" y="98.0" />
+            </edge>
+            <edge source="MarketFrame.Market" target="MarketFrame.ProductOffer">
+              <point x="77.20000000000005" y="-135.5" />
+              <point x="1354.1942562592046" y="749.0" />
+              <point x="1481.0942562592045" y="749.0" />
+              <point x="1481.0942562592045" y="503.0" />
+              <point x="1445.0109229258715" y="503.0" />
+              <point x="24.416666666666742" y="79.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="SupplierFrame.Product">
+              <point x="-88.19999999999993" y="-191.0" />
+              <point x="1026.8942562592047" y="1120.0" />
+              <point x="991.605412371134" y="1120.0" />
+              <point x="991.605412371134" y="256.0" />
+              <point x="800.1025895925379" y="256.0" />
+              <point x="48.33333333333326" y="60.5" />
+            </edge>
+            <edge source="MarketFrame.ProductOffer" target="MarketFrame.PriceRangeTuple">
+              <point x="24.416666666666742" y="-79.5" />
+              <point x="1445.0109229258715" y="256.0" />
+              <point x="1428.6359229258715" y="256.0" />
+              <point x="-89.625" y="98.0" />
+            </edge>
+            <edge source="Business.Business" target="MarketFrame.MarketList">
+              <point x="135.6190476190476" y="-450.5" />
+              <point x="1204.2388193421696" y="2164.0" />
+              <point x="1581.9554123711341" y="2164.0" />
+              <point x="1581.9554123711341" y="1582.0" />
+              <point x="1486.5942562592045" y="1582.0" />
+              <point x="-115.0" y="98.5" />
+            </edge>
+            <edge source="OrderFrame.OrderList" target="OrderFrame.Order">
+              <point x="-20.25" y="-98.5" />
+              <point x="990.4336156111923" y="1857.0" />
+              <point x="905.7692562592046" y="1857.0" />
+              <point x="49.5" y="117.5" />
+            </edge>
+            <edge source="Business.Business" target="MarketFrame.PriceRangeTuple">
+              <point x="305.1428571428571" y="-450.5" />
+              <point x="1373.762628865979" y="2214.0" />
+              <point x="1838.8348613156595" y="2214.0" />
+              <point x="1838.8348613156595" y="256.0" />
+              <point x="1607.8859229258715" y="256.0" />
+              <point x="89.625" y="98.0" />
+            </edge>
+            <edge source="SupplierFrame.Supplier" target="SupplierFrame.ProductList">
+              <point x="0.0" y="-98.0" />
+              <point x="181.5" y="759.0" />
+              <point x="225.83333333333337" y="759.0" />
+              <point x="225.83333333333337" y="503.0" />
+              <point x="245.67528227785886" y="503.0" />
+              <point x="-90.0" y="98.5" />
+            </edge>
+            <edge source="Business.Business" target="SupplierFrame.Product">
+              <point x="-339.04761904761926" y="-450.5" />
+              <point x="729.5721526755026" y="2224.0" />
+              <point x="0.0" y="2224.0" />
+              <point x="0.0" y="216.0" />
+              <point x="645.4359229258714" y="216.0" />
+              <point x="-106.33333333333331" y="60.5" />
+            </edge>
+            <edge source="Business.Business" target="MarketFrame.ProductOffer">
+              <point x="271.2380952380952" y="-450.5" />
+              <point x="1339.857866961217" y="2204.0" />
+              <point x="1795.5942562592045" y="2204.0" />
+              <point x="1795.5942562592045" y="503.0" />
+              <point x="1542.6775895925382" y="503.0" />
+              <point x="122.08333333333348" y="79.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="SupplierFrame.Supplier">
+              <point x="-264.5999999999998" y="-191.0" />
+              <point x="850.4942562592048" y="1120.0" />
+              <point x="301.1" y="1120.0" />
+              <point x="119.60000000000002" y="98.0" />
+            </edge>
+            <edge source="OrderFrame.Order" target="OrderFrame.OrderItem">
+              <point x="-74.25" y="-117.5" />
+              <point x="782.0192562592046" y="1582.0" />
+              <point x="738.9554123711341" y="1582.0" />
+              <point x="738.9554123711341" y="759.0" />
+              <point x="773.9359229258713" y="759.0" />
+              <point x="16.666666666666742" y="98.0" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="MarketFrame.ProductOffer">
+              <point x="-29.399999999999977" y="-191.0" />
+              <point x="1085.6942562592046" y="1110.0" />
+              <point x="1002.605412371134" y="1110.0" />
+              <point x="1002.605412371134" y="493.0" />
+              <point x="1298.5109229258715" y="493.0" />
+              <point x="-122.08333333333326" y="79.5" />
+            </edge>
+            <edge source="OrderFrame.Customer" target="MarketFrame.Market">
+              <point x="88.20000000000005" y="-191.0" />
+              <point x="1203.2942562592048" y="1130.0" />
+              <point x="1180.4942562592046" y="1130.0" />
+              <point x="-96.5" y="135.5" />
+            </edge>
+            <edge source="Business.Business" target="SupplierFrame.SupplierList">
+              <point x="-271.2380952380954" y="-450.5" />
+              <point x="797.3816764850264" y="2204.0" />
+              <point x="155.76925625920455" y="2204.0" />
+              <point x="155.76925625920455" y="1582.0" />
+              <point x="96.70000000000005" y="1582.0" />
+              <point x="-121.0" y="98.5" />
+            </edge>
+            <edge source="Business.Business" target="MarketFrame.Market">
+              <point x="237.33333333333326" y="-450.5" />
+              <point x="1305.9531050564551" y="2194.0" />
+              <point x="1784.5942562592045" y="2194.0" />
+              <point x="1784.5942562592045" y="1070.0" />
+              <point x="1450.6942562592048" y="1070.0" />
+              <point x="173.70000000000027" y="135.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8195402298850575" x="-578.0" y="875.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/BusinessConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/MarketList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/MarketOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/PriceRangeTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/OrderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrderFrame/SalesPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/ProductList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/SupplierList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Business/Business.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5461">
+          <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MarketFrame/ProductOffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SupplierFrame/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2008">
+          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeWork_6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile1" value="file://$PROJECT_DIR$/../homework_6.suml" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../h.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
